@@ -11,3 +11,5 @@ var gigabyteSize = parseInt(prompt("please enter the gigabyte size of the first 
 var priceComp2 = parseFloat(prompt("please enter the price of the second computer.",700));
 // ask user for input of computer 2 gigabyte size
 var gigabyteSize2 = parseInt(prompt("please enter the gigabyte size of the second computer",60));
+//collects user input and divides computer1 price by the gigabyte 
+var pricePerGigibyte1 = priceComp / gigabyteSize;
