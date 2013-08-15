@@ -17,3 +17,5 @@ var pricePerGigibyte1 = priceComp / gigabyteSize;
 var pricePerGigibyte2 = priceComp2 / gigabyteSize2;
 //inputs for calculating price per gigabytes for computer 1 and computer2
 var gbVariety = new array(5,10,50);
+// calculating price per gigabytes computer 1
+var gigabytesz5 = PerGigibyte1 * gbVariety[0];
