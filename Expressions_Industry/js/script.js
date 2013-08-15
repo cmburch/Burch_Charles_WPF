@@ -28,4 +28,6 @@ var gigabytesz52 = PerGigibyte2 * gbVariety[0];
 //calculating price per gigabytes computer2
 var gigabytesz102 = PerGigibyte2 * gbVariety[1];
 //calculating price per gigabytes computer2
-var gigabytesz502 = PerGigibyte2* gbVariety[2];
+var gigabytesz502 = PerGigibyte2 * gbVariety[2];
+//displays total of price per gigabyte for computer 1 and computer 2
+alert(" Below are the quick price references for 5,10,50 gigabytes ");
