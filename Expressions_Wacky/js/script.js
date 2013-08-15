@@ -26,4 +26,5 @@ var deal1 = pricePerDozen * crazyDeal[0];
 var deal2 = pricePerDozen * crazyDeal[1];
 // calculates deal price 3
 var deal3 = pricePerDozen * crazyDeal[2];
+//alerts the user deal values
 alert(" Would you like to try deal 1 2 dozen for $ " + deal1 + ",deal 2 3 dozen for $ " + deal2 + " ,or deal 3 4 dozen for $ " + deal3 + " Think carefully, each deal comes with a rattlesnake. Thank you for shopping.");
