@@ -14,7 +14,9 @@ var pricePerDozen = 12;
 var donutOrder = parseInt(prompt("How many fresh baked donuts would you like to enjoy? Enter in a whole number.We are only taking orders by the dozen.",5));
 //calculates the price of the donuts
 var total1 = pricePerDozen * donutOrder;
+// display the price of the donuts
 alert(" Your total is $ " + total1 );
+// display brief message of deals
 alert ("Before you go please consider our 3 special offers.");
 var crazyDeal =[2,3,4];
 var deal1 = pricePerDozen * crazyDeal[0];
