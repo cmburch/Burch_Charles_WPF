@@ -1,6 +1,8 @@
 // JavaScript
 
+//input message for alert()
 var welcome = "Welcome to Burch’s Donuts ordering page. We take orders by the dozen.";
+//input message for alert()
 var priceDetails = "Each dozen of donuts cost $ 12.";
 alert (welcome);
 alert (priceDetails);
