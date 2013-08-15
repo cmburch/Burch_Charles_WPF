@@ -15,3 +15,5 @@ var gigabyteSize2 = parseInt(prompt("please enter the gigabyte size of the secon
 var pricePerGigibyte1 = priceComp / gigabyteSize;
 //collects user input and divides computer2 price by the gigabyte2
 var pricePerGigibyte2 = priceComp2 / gigabyteSize2;
+//inputs for calculating price per gigabytes for computer 1 and computer2
+var gbVariety = new array(5,10,50);
