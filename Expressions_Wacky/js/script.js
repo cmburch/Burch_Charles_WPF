@@ -12,3 +12,4 @@ alert ("Before you go please consider our 3 special offers.");
 var crazyDeal = new array(2,3,4);
 var deal1 = pricePerDozen * crazyDeal[0];
 var deal2 = pricePerDozen * crazyDeal[1];
+var deal3 = pricePerDozen * crazyDeal[2];
