@@ -4,10 +4,15 @@
 var welcome = "Welcome to Burch’s Donuts ordering page. We take orders by the dozen.";
 //input message for alert()
 var priceDetails = "Each dozen of donuts cost $ 12.";
+//alerts user brief description on page purpose 
 alert (welcome);
+//alerts user brief description on price of donuts
 alert (priceDetails);
+// assign the price of the donut use in var total
 var pricePerDozen = 12;
+// ask user for input of order size
 var donutOrder = parseInt(prompt("How many fresh baked donuts would you like to enjoy? Enter in a whole number.We are only taking orders by the dozen.",5));
+//calculates the price of the donuts
 var total1 = pricePerDozen * donutOrder;
 alert(" Your total is $ " + total1 );
 alert ("Before you go please consider our 3 special offers.");
