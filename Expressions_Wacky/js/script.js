@@ -4,3 +4,4 @@ var welcome = "Welcome to Burch’s Donuts ordering page. We take orders by the do
 var priceDetails = "Each dozen of donuts cost $ 12.";
 alert (welcome);
 alert (priceDetails);
+var pricePerDozen=12;
