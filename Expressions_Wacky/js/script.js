@@ -18,7 +18,9 @@ var total1 = pricePerDozen * donutOrder;
 alert(" Your total is $ " + total1 );
 // display brief message of deals
 alert ("Before you go please consider our 3 special offers.");
+//values used in calculating deal price
 var crazyDeal =[2,3,4];
+// calculates deal price 1
 var deal1 = pricePerDozen * crazyDeal[0];
 var deal2 = pricePerDozen * crazyDeal[1];
 var deal3 = pricePerDozen * crazyDeal[2];
