@@ -36,3 +36,6 @@ alert(" Below are the quick price references for 5,10,50 gigabytes ")
 “Every 50gigabytes the price is:” + “$” + gigabytesz50 + “</br>”
 “Computer 2” + “</br>”
 “Every 5 gigabytes the price is:” + “$” + gigabytesz52 + “</br>”
+“Every 10 gigabytes the price is:” + “$” + gigabytesz102 + “</br>”
+“Every 50gigabytes the price is:” + “$” + gigabytesz502 + “</br>”
+“Choose the deal that best fits you.”);
