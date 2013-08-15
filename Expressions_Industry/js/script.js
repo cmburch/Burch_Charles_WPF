@@ -23,3 +23,5 @@ var gigabytesz5 = PerGigibyte1 * gbVariety[0];
 var gigabytesz10 = PerGigibyte1 * gbVariety[1];
 //calculating price per gigabytes computer 1
 var gigabytesz50 = PerGigibyte1 * gbVariety[2];
+//calculating price per gigabytes computer2
+var gigabytesz52 = PerGigibyte2 * gbVariety[0];
