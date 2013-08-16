@@ -1,4 +1,4 @@
-// JavaScript
+// // Charles M Burch 8/15/2013 Assignment: Expressions
 //alerts user brief description on page purpose 
 alert("This page was designed to calculate gas mileage and calculate the total it takes to fill up your tank. ");
 // ask user for input of miles driven
