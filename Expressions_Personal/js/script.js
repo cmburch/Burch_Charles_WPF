@@ -5,7 +5,7 @@ alert("This page was designed to calculate gas mileage and calculate the total i
 var milesDriven = parseFloat(prompt("How many miles can you drive, before a refill ? Enter in whole number." , 200));
 // ask user for input of gallons of gas their car can hold
 var gasConsumed = parseFloat(prompt("How many gallons of gas does your car hold full? Enter whole number." , 18));
-
+//calculates the miles per gallon total
 var mpgTotal = milesDriven / gasConsumed;
 var gasTotalPrices = gasConsumed * mpgTotal;
 alert("Your cars miles per gallon is " + mpgTotal + " gallons and your total price to fill your car is " + gasTotalPrices + " dollars per gallon. ");
