@@ -1,4 +1,4 @@
-// JavaScript
+// Charles M Burch 8/15/2013 Assignment: Expressions
 
 //input message for alert()
 var welcome = "Welcome to Burch’s Donuts ordering page. We take orders by the dozen.";
