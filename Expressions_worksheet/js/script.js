@@ -15,4 +15,12 @@ var slices=10;
 var  pizzas=10;
 var slicesTotal=slices * pizzas;
 var slicesEach = slicesTotal / people;
-console.log("Each person ate " + slices Each +  "slices of pizza at the party.") ;
+console.log("Each person ate " + slicesEach +  "slices of pizza at the party.");
+
+//Slice of Pie part 2
+var people=20;
+var slices=10;
+var  pizzas=10;
+var slicesTotal=slices * pizzas;
+var extraSlices=slicesTotal %  people;
+console.log("Sparky got" + extraSlices + "slices of pizza"); 
