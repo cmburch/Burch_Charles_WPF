@@ -23,4 +23,10 @@ var slices=10;
 var  pizzas=10;
 var slicesTotal=slices * pizzas;
 var extraSlices=slicesTotal %  people;
-console.log("Sparky got" + extraSlices + "slices of pizza"); 
+console.log("Sparky got" + extraSlices + "slices of pizza");
+
+//Average shopping bill
+var bills = [20,25,26,30,50];
+var billTotal = bills[0] + bills[1] + bills[2] + bills[3] + bills[4] ;
+var billsAverage = billTotal / 4;
+console.log(“billsAverage”);
