@@ -6,6 +6,7 @@ var milesDriven = parseFloat(prompt("How many miles can you drive, before a refi
 // ask user for input of gallons of gas their car can hold
 var gasConsumed = parseFloat(prompt("How many gallons of gas does your car hold full? Enter whole number." , 18));
 //calculates the miles per gallon total
+var gasPricePerGallon = parseFloat(prompt("How much do you pay for a gallon of gas?.", 2.75));
 var mpgTotal = milesDriven / gasConsumed;
 //calculates the gas price total
 var gasTotalPrices = gasConsumed * mpgTotal;
