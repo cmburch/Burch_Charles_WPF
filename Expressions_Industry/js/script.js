@@ -6,11 +6,11 @@ alert(" This page was designed to help web developers make a good choice of comp
 // ask user for input of computer 1 price
 var priceComp = parseFloat(prompt("please enter the price of the first computer.", 600));
 // ask user for input of computer 1 gigabyte size
-var gigabyteSize = parseFloat(prompt("please enter the gigabyte size of the first computer" ,50));
+var gigabyteSize = parseFloat(prompt("please enter the gigabyte size of the first computer.Please enter a number above 10 " ,50));
 // ask user for input of computer 2 price
 var priceComp2 = parseFloat(prompt("please enter the price of the second computer." ,700));
 // ask user for input of computer 2 gigabyte size
-var gigabyteSize2 = parseFloat(prompt("please enter the gigabyte size of the second computer " ,60));
+var gigabyteSize2 = parseFloat(prompt("please enter the gigabyte size of the second computer.Please enter a number above 10 " ,60));
 //collects user input and divides computer1 price by the gigabyte 
 var pricePerGigibyte1 = priceComp / gigabyteSize;
 //collects user input and divides computer2 price by the gigabyte2
