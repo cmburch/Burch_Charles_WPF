@@ -1,4 +1,4 @@
-// JavaScript
+// Charles M Burch 8/15/2013 Assignment: Expressions
 
 
 //alerts user brief description on page purpose 
